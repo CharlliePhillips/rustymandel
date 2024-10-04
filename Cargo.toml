@@ -1,0 +1,11 @@
+[package]
+name = "mandel"
+version = "0.1.0"
+edition = "2021"
+author = "Charlie Phillips <charlie_l_phillips@proton.me"
+description = "orbitaltk mandelbrot set graph using notes from linked documentation"
+documentation = "https://rotgers.io/posts/mandelbrot-rust/"
+
+[dependencies]
+num = "0.4.3"
+orbclient = "0.3.47"
